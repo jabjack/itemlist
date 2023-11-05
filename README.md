@@ -1,4 +1,4 @@
-# dc_hero
+# item_list
 
 ## Project setup
 ```
